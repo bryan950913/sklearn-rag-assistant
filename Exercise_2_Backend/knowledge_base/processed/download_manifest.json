@@ -1,0 +1,110 @@
+[
+  {
+    "source_id": "SKL-001",
+    "url": "https://scikit-learn.org/stable/getting_started.html",
+    "path": "Exercise_2_Backend\\knowledge_base\\raw\\SKL-001.html",
+    "status_code": 200,
+    "bytes": 53031,
+    "sha256": "ed9415430a1238103a886d28c6c392721d46429e156ad90111c5f1294b26294e",
+    "retrieval_date": "2026-10-05"
+  },
+  {
+    "source_id": "SKL-002",
+    "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html",
+    "path": "Exercise_2_Backend\\knowledge_base\\raw\\SKL-002.html",
+    "status_code": 200,
+    "bytes": 174897,
+    "sha256": "875fc7ad0dbc0323f1724bc9bb7271513c0b9bfafeaeb8d6cbb305f6db4b114d",
+    "retrieval_date": "2026-10-05"
+  },
+  {
+    "source_id": "SKL-003",
+    "url": "https://scikit-learn.org/stable/modules/preprocessing.html",
+    "path": "Exercise_2_Backend\\knowledge_base\\raw\\SKL-003.html",
+    "status_code": 200,
+    "bytes": 205574,
+    "sha256": "efe09a2fc1ff719716078e77cebc0620abe3a1d899f51ee0c90eb60660915c89",
+    "retrieval_date": "2026-10-05"
+  },
+  {
+    "source_id": "SKL-004",
+    "url": "https://scikit-learn.org/stable/modules/impute.html",
+    "path": "Exercise_2_Backend\\knowledge_base\\raw\\SKL-004.html",
+    "status_code": 200,
+    "bytes": 90809,
+    "sha256": "3594b679cb922fea8e048773766b24d76aa27bd55b90360c2817a3ebd22f94c5",
+    "retrieval_date": "2026-10-05"
+  },
+  {
+    "source_id": "SKL-005",
+    "url": "https://scikit-learn.org/stable/modules/compose.html",
+    "path": "Exercise_2_Backend\\knowledge_base\\raw\\SKL-005.html",
+    "status_code": 200,
+    "bytes": 120314,
+    "sha256": "39446c9d43e7c9539b5fba7cdd0e4b4ef21d149b8a612723a930048f45889107",
+    "retrieval_date": "2026-10-05"
+  },
+  {
+    "source_id": "SKL-006",
+    "url": "https://scikit-learn.org/stable/modules/linear_model.html",
+    "path": "Exercise_2_Backend\\knowledge_base\\raw\\SKL-006.html",
+    "status_code": 200,
+    "bytes": 241009,
+    "sha256": "d2bae900261ac8f09f2f8f4ef7f785fbe20da6e1120fbbb20a316e59443ac318",
+    "retrieval_date": "2026-10-05"
+  },
+  {
+    "source_id": "SKL-007",
+    "url": "https://scikit-learn.org/stable/modules/cross_validation.html",
+    "path": "Exercise_2_Backend\\knowledge_base\\raw\\SKL-007.html",
+    "status_code": 200,
+    "bytes": 169672,
+    "sha256": "78d7587fa92ba3b3e480c9d841b50fedc14ac29d571ccb319d4068235154f0e2",
+    "retrieval_date": "2026-10-05"
+  },
+  {
+    "source_id": "SKL-008",
+    "url": "https://scikit-learn.org/stable/modules/grid_search.html",
+    "path": "Exercise_2_Backend\\knowledge_base\\raw\\SKL-008.html",
+    "status_code": 200,
+    "bytes": 137995,
+    "sha256": "eef80a6e882246526b64e889148df33a762008953683036bfc29a7e333861aa7",
+    "retrieval_date": "2026-10-05"
+  },
+  {
+    "source_id": "SKL-009",
+    "url": "https://scikit-learn.org/stable/modules/model_evaluation.html",
+    "path": "Exercise_2_Backend\\knowledge_base\\raw\\SKL-009.html",
+    "status_code": 200,
+    "bytes": 438145,
+    "sha256": "7e740e140ba75771bb1c7de132babfd958c277b5529d187e7ba744e69729120c",
+    "retrieval_date": "2026-10-05"
+  },
+  {
+    "source_id": "SKL-010",
+    "url": "https://scikit-learn.org/stable/modules/clustering.html",
+    "path": "Exercise_2_Backend\\knowledge_base\\raw\\SKL-010.html",
+    "status_code": 200,
+    "bytes": 245702,
+    "sha256": "3c8d5481d8092e86fe47ff269e134510dedd006360aeaf30b9b982c91a01de1c",
+    "retrieval_date": "2026-10-05"
+  },
+  {
+    "source_id": "SKL-011",
+    "url": "https://scikit-learn.org/stable/common_pitfalls.html",
+    "path": "Exercise_2_Backend\\knowledge_base\\raw\\SKL-011.html",
+    "status_code": 200,
+    "bytes": 109748,
+    "sha256": "21fac11c181ab35624dcf8673f0475d403d4f6ecf0f9bead01a573d7642b515c",
+    "retrieval_date": "2026-10-05"
+  },
+  {
+    "source_id": "SKL-012",
+    "url": "https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html",
+    "path": "Exercise_2_Backend\\knowledge_base\\raw\\SKL-012.html",
+    "status_code": 200,
+    "bytes": 198934,
+    "sha256": "976aa1a8b3661c484b0f91f30b8f69c814ceb0b23ebdf2b01108c928bb395cd7",
+    "retrieval_date": "2026-10-05"
+  }
+]

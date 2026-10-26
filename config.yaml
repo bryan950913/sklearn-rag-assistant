@@ -1,0 +1,20 @@
+# Central configuration for the Phase 4 open-source RAG assistant.
+llm_model: Qwen/Qwen2.5-0.5B-Instruct
+embedding_model: sentence-transformers/all-MiniLM-L6-v2
+temperature: 0.10
+max_new_tokens: 64
+retrieval_top_k: 4
+retrieval_min_score: 0.32
+chunk_size: 1000
+chunk_overlap: 180
+memory_max_turns: 4
+memory_max_characters: 6000
+database_path: Exercise_2_Backend/memory/conversations.sqlite
+vector_store_path: Exercise_2_Backend/vector_store
+knowledge_base_path: Exercise_2_Backend/knowledge_base
+log_path: Exercise_2_Backend/logs/interactions.jsonl
+log_level: INFO
+embedding_batch_size: 32
+max_query_characters: 1000
+generation_timeout_seconds: 180
+random_seed: 42

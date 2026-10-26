@@ -1,0 +1,17 @@
+{
+  "source_documents": 12,
+  "extracted_sections": 203,
+  "chunks": 645,
+  "average_chunk_characters": 817.56,
+  "minimum_chunk_characters": 81,
+  "maximum_chunk_characters": 1000,
+  "unique_chunk_ids": 645,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "vector_store": {
+    "saved_at_utc": "2026-10-05T19:07:28.728567+00:00",
+    "vectors": 645,
+    "dimension": 384,
+    "metric": "cosine via normalized inner product"
+  }
+}

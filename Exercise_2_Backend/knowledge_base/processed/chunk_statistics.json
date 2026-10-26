@@ -1,0 +1,9 @@
+{
+  "source_documents": 12,
+  "extracted_sections": 203,
+  "chunks": 645,
+  "average_chunk_characters": 817.56,
+  "minimum_chunk_characters": 81,
+  "maximum_chunk_characters": 1000,
+  "unique_chunk_ids": 645
+}
